@@ -21,7 +21,7 @@ COMPUTER ARCHITECTURE course at Swathmore University.
   * 5 control flow instructions
   * 1 machine instruction
 
-For the complete report and specifications: [Simulator Report](https://github.com/vjames19/ComputerArchitectureProjects/edit/master/RiscAR5Simulator/report.pdf)
+For the complete report and specifications: [Simulator Report]https://github.com/vjames19/RiscAR5-Simulator/blob/master/RiscAR5Simulator/report.pdf)
 
 
 # Authors
